@@ -1,0 +1,4 @@
+.env
+__pycache__/
+*.pyc
+feedback/feedback_log.jsonl
